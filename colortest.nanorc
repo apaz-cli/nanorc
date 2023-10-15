@@ -1,6 +1,6 @@
 syntax "colorTest" "ColorTest$"
 
-color black "\<PLAIN\>"
+color blue "\<PLAIN\>"
 
 color red "\<red\>"
 color green "\<green\>"

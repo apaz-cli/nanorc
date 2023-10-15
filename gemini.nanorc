@@ -18,4 +18,4 @@ color yellow "^=>"
 color brightblue "^\*.*"
 
 # Monospaced Blocks
-color white,black start="^```" end="^```"
+color white,blue start="^```" end="^```"
